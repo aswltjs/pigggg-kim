@@ -1,0 +1,45 @@
+header {
+  border-bottom: 1px solid #d3d6da;
+  padding: 20px 0px 20px 0px;
+}
+
+.아이콘 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.아이콘__햄버거 img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+}
+
+.아이콘__오른쪽3개 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.아이콘__오른쪽3개 img {
+  width: 30px;
+  padding: 5px;
+}
+
+.아이콘__메인로고 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.게임버튼 {
+  bottom: 30px;
+  right: 30px;
+  border: 2px solid#D3D6DA;
+  border-radius: 20px;
+  padding: 10px 20px 10px 20px;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-right: 10px;
+}

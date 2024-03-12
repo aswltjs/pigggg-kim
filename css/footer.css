@@ -1,0 +1,46 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  margin-top: 40px;
+}
+
+.키보드-자판-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+}
+
+.키보드-자판-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+}
+
+.키보드-자판-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+}
+
+.키보드-자판-버튼 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 4px solid#D3D6DA;
+  background-color: #d3d6da;
+  width: 52px;
+  height: 70px;
+  border-radius: 10px;
+  font-weight: bolder;
+}
+
+.ENTER-1 {
+  font-size: 12px;
+  font-weight: bolder;
+}
